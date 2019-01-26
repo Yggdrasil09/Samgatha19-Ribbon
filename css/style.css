@@ -15,10 +15,10 @@ body {
   background: #FFF8EE;
   border-radius: 3px;
 
-  -webkit-animation: main 3000ms;
-  -moz-animation: main 3000ms;
-  -ms-animation: main 3000ms;
-  animation: main 3000ms;
+  -webkit-animation: main 5000ms;
+  -moz-animation: main 5000ms;
+  -ms-animation: main 5000ms;
+  animation: main 5000ms;
 }
 
 .ribbon i {
@@ -35,10 +35,10 @@ body {
   border-width: 30px 90px 20px 0;
   border-color: transparent #5e6061 transparent transparent;
 
-  -webkit-animation: edge 3000ms;
-  -moz-animation: edge 3000ms;
-  -ms-animation: edge 3000ms;
-  animation: edge 3000ms;
+  -webkit-animation: edge 3900ms;
+  -moz-animation: edge 3900ms;
+  -ms-animation: edge 3900ms;
+  animation: edge 3900ms;
 }
 
 .ribbon i:nth-child(2) {
@@ -51,10 +51,10 @@ body {
   border-width: 30px 0 20px 90px;
   border-color: transparent transparent transparent #5e6061;
 
-  -webkit-animation: edge 3000ms;
-  -moz-animation: edge 3000ms;
-  -ms-animation: edge 3000ms;
-  animation: edge 3000ms;
+  -webkit-animation: edge 3900ms;
+  -moz-animation: edge 3900ms;
+  -ms-animation: edge 3900ms;
+  animation: edge 3900ms;
 }
 
 .ribbon i:nth-child(2) {
@@ -220,7 +220,7 @@ p {
 
 @keyframes edge {
 
-  0%{
+  10%{
     transform: scaleY(0);
     border-top-color:transparent;
   }
