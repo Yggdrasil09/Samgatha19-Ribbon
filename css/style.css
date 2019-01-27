@@ -67,7 +67,7 @@ body {
   bottom: -20px;
   left: -95px;
   z-index: -2;
-  border: 30px solid #FFF8EE;
+  border: 30.5px solid #FFF8EE;
   border-left-color: transparent;
   transform:rotate(-5deg);
 
@@ -98,7 +98,7 @@ body {
   bottom: -20px;
   left: auto;
   right: -95px;
-  border: 30px solid #FFF8EE;
+  border: 30.5px solid #FFF8EE;
   border-right-color: transparent;
   transform: rotate(5deg);
 
@@ -205,7 +205,7 @@ body {
 
 @keyframes main {
   0% {
-    border-radius: 40px
+    border-radius: 30px
   }
 
   100% {
