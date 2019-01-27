@@ -108,11 +108,6 @@ body {
   transform-origin: 0 0;
 }
 
-p {
-  text-align: center;
-  color: #aaa;
-}
-
 /* animations */
 
 @-webkit-keyframes main {
